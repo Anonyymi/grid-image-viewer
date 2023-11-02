@@ -1,3 +1,8 @@
 # grid-image-viewer
 
-My first electron app. Scrolls images in a grid ad infinitum. Mouse scroll wheel resizes grid items.
+My first electron app. Scrolls images in a grid ad infinitum.
+
+## Controls
+
+- Scroll wheel resizes grid items
+- Space bar shuffles grid items
