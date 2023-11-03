@@ -6,3 +6,7 @@ My first electron app. Scrolls images in a grid ad infinitum.
 
 - Scroll wheel resizes grid items
 - Space bar shuffles grid items
+
+## Screenshots
+
+![Grid Image Viewer](./docs/screenshot.png)
